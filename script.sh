@@ -1,4 +1,8 @@
 #!/bin/sh
+#
+# A comment.
+#
+#
 
 
 
