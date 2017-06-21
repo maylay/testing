@@ -2,7 +2,7 @@
 #!/bin/sh
 
 #
-# A comment.
+#
 #
 #
 
